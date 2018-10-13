@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1472938989 source:c:\users\pasta\desktop\c++practice\wordament\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
